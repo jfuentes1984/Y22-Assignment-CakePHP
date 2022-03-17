@@ -45,7 +45,7 @@ return [
             //'port' => 'non_standard_port_number',
 
             'username' => 'my_app',
-            'password' => 'secret',
+            'password' => 'toomanysecrets',
 
             'database' => 'my_app',
             /*
